@@ -1,0 +1,2 @@
+# Data_migration_Using_ELT-Mongodb-to-MySql-
+This activity is an introduction to the basics of ELT(Extract, Load and Transform) operations done by data engineers using python. We will be considering Mongodb as sources for our activity, based on which, we will be creating connectors in python. These connectors will be used to query data from data sources and then store them in our destination database ie. MySql. From MySQL, we can either internally do transformations on the loaded data or implement various python scripts to do the same.
