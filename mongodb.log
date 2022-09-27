@@ -1,0 +1,1 @@
+INFO: 12-09-2022 13:58 : Successfully loaded data into MongoDB where Database is Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'activity') and Collection is Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'activity'), 'data')
